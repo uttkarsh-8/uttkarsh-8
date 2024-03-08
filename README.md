@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Uttkarsh Srivastva 👋 
 
 <!--
 **uttkarsh-8/uttkarsh-8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
