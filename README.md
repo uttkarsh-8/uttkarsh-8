@@ -1,16 +1,17 @@
-### Hi, I'm Uttkarsh Srivastva 👋 
+### 				                                                                        Hi, I'm Uttkarsh Srivastva 👋 
 
-<!--
-**uttkarsh-8/uttkarsh-8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+               
 
-Here are some ideas to get you started:
+                                                            while(alive){
+                                                              eat();
+                                                              sleap();
+                                                              code();
+                                                            }  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me:
+
+- 🏢 Pursuing Computer Science Engineering In Vellore Institute Of Technology
+- 💻 Full Stack Developer
+- ☁️ Well Versed In Cloud Computing
+- 🔴🔴 Glory Glory Manchester United!!
+- 📫 Let's Connect via LinkedIn - www.linkedin.com/in/uttkarsh-srivastava8 
