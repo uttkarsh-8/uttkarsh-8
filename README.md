@@ -19,6 +19,6 @@ About Me:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,docker,c,vim,cpp,aws,bootstrap,html,css,js,maven,spring,linux,debian,msql,postgresql,postman,py,react,sass" />
+    <img src="https://skillicons.dev/icons?i=git,java,docker,c,vim,cpp,aws,bootstrap,html,css,js,maven,spring,linux,debian,mysql,postgresql,postman,py,react,sass" />
   </a>
 </p>
